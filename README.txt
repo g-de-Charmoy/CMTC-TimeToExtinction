@@ -1,0 +1,1 @@
+A script written to approximate the time to disease extinction in a CTMC Stochastic Model for Ebola. Created by Gabriel de Charmoy. 
